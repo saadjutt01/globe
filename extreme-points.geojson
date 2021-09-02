@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
-  "features": [{
+  "features": [
+    {
       "type": "Feature",
       "properties": {
         "name": "Mount Everest",
@@ -18,10 +19,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          86.925061,
-          27.988271
-        ]
+        "coordinates": [86.925061, 27.988271]
       }
     },
     {
@@ -42,10 +40,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          142.591667,
-          11.374300
-        ]
+        "coordinates": [142.591667, 11.3743]
       }
     },
     {
@@ -66,13 +61,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -68.541389,
-          -27.109722
-        ]
+        "coordinates": [-68.541389, -27.109722]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "name": "La Rinconada",
@@ -90,10 +82,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -69.445833,
-          -14.6325
-        ]
+        "coordinates": [-69.445833, -14.6325]
       }
     },
     {
@@ -114,10 +103,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          49.882222,
-          40.395278
-        ]
+        "coordinates": [49.882222, 40.395278]
       }
     },
     {
@@ -138,10 +124,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          108.126761,
-          53.607026
-        ]
+        "coordinates": [108.126761, 53.607026]
       }
     },
     {
@@ -162,10 +145,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          86.666667,
-          46.283333
-        ]
+        "coordinates": [86.666667, 46.283333]
       }
     },
     {
@@ -186,10 +166,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -123.393333,
-          -48.876667
-        ]
+        "coordinates": [-123.393333, -48.876667]
       }
     }
   ]
