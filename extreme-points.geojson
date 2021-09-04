@@ -13,7 +13,28 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.445833, -14.6325]
+        "coordinates": [
+          -69.445833,
+          -14.6325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DUBAI AIRPORT",
+        "description": "The town is situated next to a gold mine, so the economy is mainly based on the extraction and production of gold, many artisanal. Between 2001 and 2009, the population increased to 30,000 people from just a small gold prospector camp because the price of gold rose 235% over that period.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/La_Rinconada_Peru.jpg",
+        "imageCaption": "View of La Rinconada",
+        "source": "Source Name",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.36285400390625,
+          25.255253634540036
+        ]
       }
     }
   ]
